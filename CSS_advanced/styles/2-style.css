@@ -10,10 +10,7 @@ h1.visually-hidden {
 	display: none;
 }
 
-p.card-category{
-	color: #D73953;
-}
-
-p.section-tagline{
+.card-category, 
+.section-tagline{
 	color: #D73953;
 }
