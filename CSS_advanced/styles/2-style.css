@@ -1,9 +1,9 @@
 body{
-    --text-color;
+    color: #161616;
 }
 
 a{
-    --text-color;
+     color: #161616;
 }
 
 h1.visually-hidden {
@@ -12,5 +12,5 @@ h1.visually-hidden {
 
 .card-category, 
 .section-tagline{
-	--color-primary;
+	color: #D73953;
 }
