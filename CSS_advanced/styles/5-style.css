@@ -16,6 +16,7 @@
 
 body {
 	color: #161616;
+	font-family: var(--font-family-base);
 	font-family: var(--font-size-medium);
 }
 
