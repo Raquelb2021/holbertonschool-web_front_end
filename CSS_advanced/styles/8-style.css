@@ -29,7 +29,7 @@ body {
 	font-weight: var(--font-weight-regular);
 	font-size: var(--font-weight-bold);
 	font-family: var(--font-family-base);
-	height: var(--line-height-base);
+	line-height: var(--line-height-base);
 
 }
 
