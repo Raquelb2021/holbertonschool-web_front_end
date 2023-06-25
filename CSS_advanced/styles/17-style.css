@@ -114,3 +114,8 @@ a:active {
 	text-align: var(--section-footer-align);
 }
 
+.selector{
+	padding: var(--section-body-footer);
+	padding: var(--footer-padding);
+}
+
