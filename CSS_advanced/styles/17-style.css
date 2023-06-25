@@ -109,7 +109,7 @@ a:active {
 	display: var(--section-footer-align);
 }
 
-.footer {
+.section-footer {
 	padding: var(--section-body-footer);
 	text-align: var(--section-footer-align);
 }
